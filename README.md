@@ -7,3 +7,4 @@ Done sections are:
 - Valid parentheses
 - Best time to buy and sell stock
 - Pow
+- Palindrome number
