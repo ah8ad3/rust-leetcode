@@ -8,3 +8,4 @@ Done sections are:
 - Best time to buy and sell stock
 - Pow
 - Palindrome number
+- Search in rotated sorted array
