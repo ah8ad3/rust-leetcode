@@ -9,3 +9,4 @@ Done sections are:
 - Pow
 - Palindrome number
 - Search in rotated sorted array
+- 3 sum
