@@ -10,3 +10,4 @@ Done sections are:
 - Palindrome number
 - Search in rotated sorted array
 - 3 sum
+- Contain duplicates
